@@ -15,6 +15,12 @@ class testing{
     die();
   }
   
+  function mantap()
+  {
+    echo "gokil juga lu gan";
+  
+  }
+  
   
 
 }
