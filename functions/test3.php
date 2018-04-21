@@ -20,6 +20,11 @@ class testing{
     echo "gokil juga lu gan";
   
   }
+  function last()
+  {
+    echo "last solved repoblem now";
+    
+  }
   
   
 
