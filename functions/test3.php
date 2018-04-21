@@ -1,1 +1,16 @@
-<h1> Testing functions </h1>
+<?php
+class testing{
+
+
+
+  function test()
+  {
+    echo "halo ini testing yaa";
+    die();
+  }
+
+
+}
+
+
+ ?>
