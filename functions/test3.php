@@ -9,6 +9,13 @@ class testing{
     die();
   }
 
+  function balasan()
+  {
+    echo "oke ini balasanannya di terima gan":
+    die();
+  }
+  
+  
 
 }
 
