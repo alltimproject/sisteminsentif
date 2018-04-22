@@ -30,7 +30,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <h3>Sistem Perhitungan Isentif</h3>
+    <h3>Sistem Perhitungan Insentif</h3>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
